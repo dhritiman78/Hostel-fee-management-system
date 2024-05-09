@@ -45,3 +45,22 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/dhritiman78/Hostel-fee-management-system.git
+```
+2. Install XAMPP and follow these steps:
+  - Move the project directory to your XAMPP's `htdocs` directory.
+  - Start XAMPP and make sure Apache and MySQL are running.
+  - Open phpMyAdmin in your browser and create a new database named `hostel_fee_management`.
+  - Create the required in the website (find it from the php pages) tables in the database
+  - Navigate to [http://localhost/Hostel-fee-management-system](http://localhost/Hostel-fee-management-system) in your browser.
+  - Now, you can use the Hostel Fee Management System!
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps to contribute to the project:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-branch-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-branch-name`).
+6. Create a new Pull Request.
