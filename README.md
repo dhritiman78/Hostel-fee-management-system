@@ -42,11 +42,11 @@ This project is still being used in my hostel. You can view it in action by clic
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+**1. Clone the repository:**
    ```bash
    git clone https://github.com/dhritiman78/Hostel-fee-management-system.git
 
-2. Install XAMPP and follow these steps:
+**2. Install XAMPP and follow these steps:**
     - Once installed, move the project directory to XAMPP's htdocs directory. This directory is usually located at C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS.
     - Start XAMPP, and make sure both Apache and MySQL are running. You can start them by clicking on the "Start" button next to each module in the XAMPP control panel.
     - Open your web browser and go to http://localhost/phpmyadmin.
