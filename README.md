@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/dhritiman78/Hostel-fee-management-system.git
-```
+
 2. Install XAMPP and follow these steps:
   - Move the project directory to your XAMPP's `htdocs` directory.
   - Start XAMPP and make sure Apache and MySQL are running.
