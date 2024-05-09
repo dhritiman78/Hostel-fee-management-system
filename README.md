@@ -47,12 +47,16 @@ To run this project locally, follow these steps:
    git clone https://github.com/dhritiman78/Hostel-fee-management-system.git
 
 2. Install XAMPP and follow these steps:
-  - Move the project directory to your XAMPP's `htdocs` directory.
-  - Start XAMPP and make sure Apache and MySQL are running.
-  - Open phpMyAdmin in your browser and create a new database named `hostel_fee_management`.
-  - Create the required in the website (find it from the php pages) tables in the database
-  - Navigate to [http://localhost/Hostel-fee-management-system](http://localhost/Hostel-fee-management-system) in your browser.
-  - Now, you can use the Hostel Fee Management System!
+    - Once installed, move the project directory to XAMPP's htdocs directory. This directory is usually located at C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS.
+    - Start XAMPP, and make sure both Apache and MySQL are running. You can start them by clicking on the "Start" button next to each module in the XAMPP control panel.
+    - Open your web browser and go to http://localhost/phpmyadmin.
+    - Log in to phpMyAdmin using your username and password.
+    - On the left panel, click on "New" to create a new database and name it hostel_fee_management.
+    - With the hostel_fee_management database selected, click on the "Import" tab from the top menu.
+    - Click on the "Choose File" button, select the req_databases.sql file you downloaded, and click "Open".
+    - Finally, click on the "Go" button at the bottom to import the SQL file into the database.
+    - Navigate to http://localhost/Hostel-fee-management-system in your browser.
+    - Now, you can use the Hostel Fee Management System! 🎉
 
 ## 🤝 Contributing
 
