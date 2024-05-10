@@ -1,8 +1,8 @@
 <?php
-$server_name = "";
-$username = "";
+$server_name = "localhost";
+$username = "root";
 $password = "";
-$db_name = "";
+$db_name = "hostel_fee_management";
 $conn = mysqli_connect($server_name,$username,$password,$db_name);
 // Control values
 $month_name;
